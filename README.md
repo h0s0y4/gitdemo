@@ -1,2 +1,7 @@
-# gitdemo
-Demo repository for Git Complete
+#Starter Web Project
+
+## Introduction
+
+## Purpose
+
+## How To Contribute
