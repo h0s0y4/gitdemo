@@ -10,4 +10,8 @@ This example is to show different parts of the Git repository and various comman
 
 ## Deployment
 
+This is a simple web project, deployment can be on any web server or even local file system.
+
 ## How To Contribute
+
+What's up?
